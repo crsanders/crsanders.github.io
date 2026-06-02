@@ -11,7 +11,7 @@ I thought it would be fun to start up a blog as a way of keeping a record of pro
 
 
 
-![Sphere](/images/sphere.png)
+![Sphere](images/sphere.png)
 
 
 
