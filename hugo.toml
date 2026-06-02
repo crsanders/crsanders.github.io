@@ -1,4 +1,4 @@
-baseURL = '[https://crsanders.github.io/](https://crsanders.github.io/)'
+baseURL = '[https://crsanders.github.io/blog](https://crsanders.github.io/blog)'
 locale = 'en-us'
 title = 'Christian Sanders'
 theme = "mana"
