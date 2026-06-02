@@ -1,4 +1,4 @@
-baseURL = 'https://crsanders.github.io/blog'
+baseURL = 'https://crsanders.github.io/'
 locale = 'en-us'
 title = 'Christian Sanders'
 theme = "mana"
