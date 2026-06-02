@@ -14,7 +14,7 @@ useEmbedded = "fallback"
 
 [params]
   description = "A place for musings, ramblings, and progress records"
-  favicon = "/favicon/favicon.ico"
+  favicon = "/favicon.ico"
   footerText = "Built with Hugo and Mana theme"  # Optional
   
   # Hero section title (optional - defaults to site.Title)
@@ -22,6 +22,7 @@ useEmbedded = "fallback"
   heroTitleLine2 = ""    # Second line of hero title (optional)
   [params.avatar]
   [params.avatar.home]
-    assetPath = "/images/sphere.png"
+    url = "https://crsanders.github.io/images/sphere.png"
+    # assetPath = "/images/sphere.png"
   [params.avatar.about]
-    assetPath = "/images/sphere.png"
+    url = "https://crsanders.github.io/images/sphere.png"
