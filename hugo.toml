@@ -21,6 +21,6 @@ enableDefault = true
   heroTitleLine2 = ""    # Second line of hero title (optional)
   [params.avatar]
   [params.avatar.home]
-    assetPath = "images/sphere.png"
+    assetPath = "/images/sphere.png"
   [params.avatar.about]
-    assetPath = "images/sphere.png"
+    assetPath = "/images/sphere.png"
