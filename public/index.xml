@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/posts/first-post/</link>
 				<pubDate>Sun, 31 May 2026 17:37:38 -0500</pubDate>
 				<guid>http://localhost:1313/posts/first-post/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I thought it would be fun to start up a blog as a way of keeping a record of progress in some hobbies I&amp;rsquo;m starting, notably pixel art and game development. Ideally it&amp;rsquo;ll be a way to look back and see the improvements that I&amp;rsquo;ve made, but who knows. To start with, here&amp;rsquo;s the first bit of pixel art I&amp;rsquo;ve made, a sphere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/sphere.png&#34; alt=&#34;Sphere&#34;&gt;&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I thought it would be fun to start up a blog as a way of keeping a record of progress in some hobbies I&amp;rsquo;m starting, notably pixel art and game development. Ideally it&amp;rsquo;ll be a way to look back and see the improvements that I&amp;rsquo;ve made, but who knows. To start with, here&amp;rsquo;s the first bit of pixel art I&amp;rsquo;ve made, a sphere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/sphere.png&#34; alt=&#34;Sphere&#34;&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
